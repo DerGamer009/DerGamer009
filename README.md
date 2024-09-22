@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌍 › I'm living in Germany
+- 🎨 › I'm mainly working on Websites and Discord Bots
+
