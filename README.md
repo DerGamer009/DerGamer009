@@ -1,5 +1,14 @@
 <h1 align="center">Hi there, I'm DerGamer009 👋</h1>
 
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=192
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=1033714515377934386&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&"
+></iframe>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </p>
