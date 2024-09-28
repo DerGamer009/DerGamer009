@@ -65,8 +65,8 @@ I’m always looking for exciting collaborations on:
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: `youremail@example.com`
-- 💬 Discord: [DerGamer009](https://discordapp.com/users/DerGamer009)
+- 📧 Email: `Jaeger.Phillipp@darkhex24.de`
+- 💬 Discord: [DerGamer009]()
 
 ---
 
