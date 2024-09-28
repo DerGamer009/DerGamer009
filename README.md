@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌍 › I'm living in Germany
 - 🎨 › I'm mainly working on Websites and Discord Bots
-
+- 🔭 › I’m currently working on DarkHex, Minehost, NovaClient, Minecosia
