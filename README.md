@@ -20,10 +20,10 @@
 ---
 
 ### 🚀 Current Projects
-- 🛠 **DarkHex**: Game development project
-- 🌐 **Minehost**: Web hosting platform
-- 🚀 **NovaClient**: Minecraft client mod
-- 🌿 **Minecosia**: A Minecraft modding project for environmental awareness
+- 🛠 **DarkHex**: Hosting platform
+- 🌐 **Minehost**: Game hosting platform
+- 🚀 **NovaClient**: Minecraft client
+- 🌿 **Minecosia**: A Minecraft server project for environmental awareness
 
 ---
 
