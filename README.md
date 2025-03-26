@@ -66,7 +66,7 @@ I’m always looking for exciting collaborations on:
 
 ### 📫 How to Reach Me
 - 📧 Email: `Jaeger.Phillipp@darkhex24.de`
-- 💬 Discord: [DerGamer009]()
+- 💬 Discord: [DerGamer09](https://discord.com/users/1033714515377934386)
 
 ---
 
