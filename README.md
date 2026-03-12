@@ -21,6 +21,26 @@
 
 # 🚀 Current Projects
 
+### 🧩 CraftingStudioPro
+![Platform](https://img.shields.io/badge/Type-Developer%20Community-blue)
+![Focus](https://img.shields.io/badge/Focus-Minecraft%20Plugins-green)
+
+A developer community for **high-quality Minecraft plugin development**, collaboration, and tools.
+
+---
+
+### 🍵 TeaClient
+![Type](https://img.shields.io/badge/Project-Minecraft%20Client-orange)
+
+A custom **Minecraft client** with performance optimizations and extra gameplay features.
+
+---
+
+### 🎮 OP-Games
+![Type](https://img.shields.io/badge/Project-Minecraft%20Server-red)
+
+A **custom Minecraft server** featuring unique gameplay systems and plugins.
+
 ---
 
 # 🛠 Tech Stack
